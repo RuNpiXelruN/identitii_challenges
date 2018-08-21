@@ -24,4 +24,4 @@ yarn run build --report
 | Attribute Picker      | /attribute-picker |
 | Ping Pong             | /ping-pong |
 
-I decided to do both challenges within the same Vue app with a Vuex store alos. Whilst obviously over-engineered for the `Ping Pong` challenge, i believe it was a great choice for the `Attribute Picker` challenge.
+I decided to do both challenges within the same Vue app with an attached Vuex store. Whilst obviously over-engineered for the `Ping Pong` challenge, i believe it was a great choice for the `Attribute Picker` challenge.
