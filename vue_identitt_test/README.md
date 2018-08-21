@@ -20,7 +20,7 @@ yarn run build --report
 
 ## Points to note:
 | Challenge             | Path  |
-| --------------------- | :----- |
+| :--------------------- | :----- |
 | Attribute Picker      | /attribute-picker |
 | Ping Pong             | /ping-pong |
 
