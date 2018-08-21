@@ -1,0 +1,9 @@
+{
+	"ImportPath": "go_apps/go-tt/identitii/nested_nodes",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
